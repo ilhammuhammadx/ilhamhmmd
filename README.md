@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👋 Halo, Salam Kenal !
+Saya Ilham Muhammad, saat ini saya bekerja sebagai PPNPN Kontrak di Badan Standardisasi Nasional sebagai :man_technologist: Software Engineer dibagian Sub Bidang Sistem Informasi dan Tata Kelola Data (SITKD) di Unit Kerja Pusat Data dan Sistem Informasi (PUSDATIN). Dan juga saya bekerja lepas di Koding Times sebagai :vampire_man: Superman untuk memberikan impact nyata bagi orang lain.
 
-<!--
-**ilhamhmmd/ilhamhmmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selain itu juga saya merupakan lulusan dari Universitas Gunadarma dengan Jurusan Sistem Informasi. Saya tertarik pada bidang Perekayasa Web sisi Fullstack.
 
-Here are some ideas to get you started:
+## :art: Artikel & Presentasi
+  - Blog : [https://medium.com/@ilhamhmmd](https://medium.com/@ilhamhmmd)
+  - Speaker : [https://www.youtube.com/channel/UC8G8GIJQlSx2oHDG-qjaUEg](https://www.youtube.com/channel/UC8G8GIJQlSx2oHDG-qjaUEg)
+  - Portfolio : [https://ilham.kodingtimes.com](https://ilham.kodingtimes.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Narahubung
+  - Email : [ilham@kodingtimes.com](mailto:ilham@kodingtimes.com)
+  - LinkedIn : [https://id.linkedin.com/in/ilhamhmmd](https://id.linkedin.com/in/ilhamhmmd)
+  - Instagram : [https://instagram.com/in/ilhamspace](https://instagram.com/in/ilhamspace)
+  
+## :computer: Dashboard
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ilhamhmmd)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ilhamhmmd&repo=client-dicky)
