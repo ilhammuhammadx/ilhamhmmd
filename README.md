@@ -11,7 +11,7 @@ Selain itu juga saya merupakan lulusan dari Universitas Gunadarma dengan Jurusan
 ## 💬 Narahubung
   - Email : [ilham@kodingtimes.com](mailto:ilham@kodingtimes.com)
   - LinkedIn : [https://id.linkedin.com/in/ilhamhmmd](https://id.linkedin.com/in/ilhamhmmd)
-  - Instagram : [https://instagram.com/in/ilhamspace](https://instagram.com/in/ilhamspace)
+  - Instagram : [https://instagram.com/ilhamspace](https://instagram.com/in/ilhamspace)
   
 ## :computer: Dashboard
 
