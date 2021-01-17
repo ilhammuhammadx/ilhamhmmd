@@ -1,5 +1,5 @@
 ## 👋 Halo, Salam Kenal !
-Saya Ilham Muhammad, saat ini saya bekerja sebagai PPNPN Kontrak di Badan Standardisasi Nasional sebagai :man_technologist: Software Engineer dibagian Sub Bidang Sistem Informasi dan Tata Kelola Data (SITKD) di Unit Kerja Pusat Data dan Sistem Informasi (PUSDATIN). Dan juga saya bekerja lepas di Koding Times sebagai :vampire_man: Superman untuk memberikan impact nyata bagi orang lain.
+Saya Ilham Muhammad, saat ini saya bekerja di Badan Standardisasi Nasional (BSN) sebagai :man_technologist: Software Engineer PPNPN Kontrak dibagian Sub Bidang Sistem Informasi dan Tata Kelola Data (SITKD) di Unit Kerja Pusat Data dan Sistem Informasi (PUSDATIN). Dan juga saya bekerja lepas di Koding Times sebagai :vampire_man: Superman untuk memberikan impact nyata manfaat teknologi bagi orang lain.
 
 Selain itu juga saya merupakan lulusan dari Universitas Gunadarma dengan Jurusan Sistem Informasi. Saya tertarik pada bidang Perekayasa Web sisi Fullstack.
 
