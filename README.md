@@ -17,4 +17,4 @@ Selain itu juga saya merupakan lulusan dari Universitas Gunadarma dengan Jurusan
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ilhamhmmd)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ilhamhmmd&repo=client-dicky)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ilhamhmmd&repo=android-java-qnowpets)
