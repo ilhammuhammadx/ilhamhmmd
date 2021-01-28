@@ -1,7 +1,5 @@
 ## 👋 Halo, Salam Kenal !
-Saya Ilham Muhammad, saat ini saya bekerja di BSN sebagai :man_technologist: Software Engineer PPNPN bagian Sub Bidang Sistem Informasi dan Tata Kelola Data (SITKD) di Unit Kerja Pusat Data dan Sistem Informasi (PUSDATIN). Dan juga saya bekerja lepas di Koding Times sebagai :vampire_man: Superman untuk memberikan impact nyata manfaat teknologi bagi orang lain.
-
-Selain itu juga saya merupakan lulusan dari Universitas Gunadarma dengan Jurusan Sistem Informasi. Saya tertarik pada bidang Perekayasa Web sisi Fullstack.
+Saya Ilham Muhammad ~
 
 ## :art: Artikel & Presentasi
   - Blog : [https://medium.com/@ilhamhmmd](https://medium.com/@ilhamhmmd)
