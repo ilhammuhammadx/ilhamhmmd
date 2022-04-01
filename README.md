@@ -1,15 +1,14 @@
 ## 👋 Halo, Salam Kenal !
-Saya Ilham Muhammad ~
 
-## :art: Artikel & Presentasi
-  - Blog : [https://medium.com/@ilhamhmmd](https://medium.com/@ilhamhmmd)
-  - Speaker : [https://www.youtube.com/channel/UC8G8GIJQlSx2oHDG-qjaUEg](https://www.youtube.com/channel/UC8G8GIJQlSx2oHDG-qjaUEg)
-  - Portfolio : [https://ilham.kodingtimes.com](https://ilham.kodingtimes.com)
+## 🎨 Artikel & Presentasi
+  - Blog : [https://ilhamhmmd.medium.com/](medium.com/@ilhamhmmd)
+  - YouTube : [https://www.youtube.com/channel/UC8G8GIJQlSx2oHDG-qjaUEg](Ilham Muhammad)
+  - Portfolio : [https://ilham.kodingtimes.com](https://ilham-muhammad.com)
 
 ## 💬 Narahubung
-  - Email : [ilham@kodingtimes.com](mailto:ilham@kodingtimes.com)
-  - LinkedIn : [https://id.linkedin.com/in/ilhamhmmd](https://id.linkedin.com/in/ilhamhmmd)
-  - Instagram : [https://instagram.com/ilhamspace](https://instagram.com/in/ilhamspace)
+  - Email : [mailto:mail@ilham-muhammad](mail@ilham-muhammad.com)
+  - LinkedIn : [https://id.linkedin.com/in/ilhamhmmd](linkedin.com/ilhamhmmd)
+  - Instagram : [https://instagram.com/ilhamspace](instagram.com/ilhamspace)
   
 ## :computer: Dashboard
 
